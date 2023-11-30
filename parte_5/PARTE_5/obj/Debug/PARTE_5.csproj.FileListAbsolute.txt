@@ -1,0 +1,7 @@
+D:\parte_5\PARTE_5\bin\Debug\PARTE_5.exe.config
+D:\parte_5\PARTE_5\bin\Debug\PARTE_5.exe
+D:\parte_5\PARTE_5\bin\Debug\PARTE_5.pdb
+D:\parte_5\PARTE_5\obj\Debug\PARTE_5.csproj.AssemblyReference.cache
+D:\parte_5\PARTE_5\obj\Debug\PARTE_5.csproj.CoreCompileInputs.cache
+D:\parte_5\PARTE_5\obj\Debug\PARTE_5.exe
+D:\parte_5\PARTE_5\obj\Debug\PARTE_5.pdb
